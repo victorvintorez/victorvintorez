@@ -1,12 +1,10 @@
-- 👋 Hi, I’m Victor (@victorvintorez)
-- 👀 I’m interested in Keyboards, Web Dev, Linux, and general tech stuff!
-- 🌱 Languages I'm into: JavaScript/TypeScript, Rust, C#.
-- 📫 How to reach me 
-  - Discord - victorvintorez
-  - Email - victor dot vintorez dot dev
-  - Matrix - @victorvintorez:tchncs.de
+Hi, I’m Victor Vintorez!
 
-<!---
-victorvintorez/victorvintorez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a:
+- Software Dev (Primarily C#, but also JS/TS, Rust, Vala, Nix)
+- Linux Enjoyer (Currently Arch, working on [Atomic Linux](https://codeberg.org/victorvintorez/vlake) and [Nix Flake](https://codeberg.org/victorvintorez/vlake))
+Find Me:
+- Website: [vintorez.dev](https://vintorez.dev)
+- Discord: [victorvintorez]()
+- Matrix: [@victorvintorez:tchncs.de]()
+- Email: victor [at] vintorez [dot] dev
